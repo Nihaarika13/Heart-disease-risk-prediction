@@ -52,8 +52,8 @@ Optional: Flask or FastAPI for real-time prediction API, chatbot framework
 
 Usage
 Clone the repository
-                                        git clone https://github.com/Nihaarika13/Heart-disease-risk-prediction.git
-                                        cd Heart-disease-risk-prediction
+                        git clone https://github.com/Nihaarika13/Heart-disease-risk-prediction.git
+                        cd Heart-disease-risk-prediction
                                         
 Install required packages:
                                         pip install -r requirements.txt
